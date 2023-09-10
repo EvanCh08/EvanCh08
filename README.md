@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Darren Christanto</h1>
-<h3 align="center">A passionate Front-End and Back-End Co-Developer from Indonesia</h3>
+<h3 align="center">A Passionate Front-End and Back-End Co-Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanch08&label=Profile%20views&color=0e75b6&style=flat" alt="evanch08" /> </p>
 
