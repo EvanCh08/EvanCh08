@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, TypeScript, Tailwind CSS, Database**
 
-- 👨‍💻 All of my projects are available at [https://meadow-honeycrisp-839.notion.site/Hello-I-m-Evan-Darren-Christanto-cb20aaa6e6cd4a9692996b3917b16af6?pvs=4](https://meadow-honeycrisp-839.notion.site/Hello-I-m-Evan-Darren-Christanto-cb20aaa6e6cd4a9692996b3917b16af6?pvs=4)
+- 👨‍💻 All of my projects are available at [https://evan-darren.com](https://evan-darren.com)
 
 - 📫 How to reach me **evandarren04@gmail.com**
 
