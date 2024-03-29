@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanch08&label=Profile%20views&color=0e75b6&style=flat" alt="evanch08" /> </p>
 
-- 🔭 I’m currently working on [Simplykiem Website](https://github.com/EvanCh08/Simplykiem)
+- 🔭 I’m currently working on BT3103 and BT4222 Project
 
 - 🌱 I’m currently learning **React JS, TypeScript, Tailwind CSS, Database**
 
