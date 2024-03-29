@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **evandarren04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UXxWLY8_Hi5FnF-QUSU9jmvG1gpubJv3/view?usp=sharing](https://drive.google.com/file/d/1UXxWLY8_Hi5FnF-QUSU9jmvG1gpubJv3/view?usp=sharing)
+- [📄 Know about my experience](https://drive.google.com/file/d/11UM-VrOqCTwZAPkvDj_GFmbyhx92wQvu/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
